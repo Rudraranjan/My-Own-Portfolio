@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.courosel-bg{
+    background-color: black;
+}
+.about-bg{
+    background-color: rgb(59, 59, 59);
+}
+.row-item{
+    transition: transform 0.4s;
+}
+.row-item:hover{
+  transform: scale(1.1);  
+}
